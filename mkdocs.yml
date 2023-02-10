@@ -1,0 +1,8 @@
+site_name: 'test'
+site_description: 'Documentation'
+
+nav:
+  - Intro: sdk/collections.md
+
+plugins:
+  - techdocs-core
